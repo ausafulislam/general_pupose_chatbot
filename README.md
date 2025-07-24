@@ -4,6 +4,8 @@ An intelligent AI-powered chatbot leveraging Gemini 2.5 for accurate and helpful
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-MIT_License-green) ![Stars](https://img.shields.io/github/stars/ausafulislam/general_pupose_chatbot?style=social)
 
+## 🕵 Preview Images
+
 ![Chatbot Preview](/preview_images/preview_1.jpg)
 ![Chatbot Preview](/preview_images/preview_2.jpg)
 ![Chatbot Preview](/preview_images/preview_3.jpg)
